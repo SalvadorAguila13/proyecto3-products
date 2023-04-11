@@ -32,7 +32,7 @@ const config = {
         timestamps: true,
         underscored: true,
       },
-      //Esta configuracion es para produccion
+      //Está configuración es para producción
       dialectOptions: {
         ssl: {
           require: true,
